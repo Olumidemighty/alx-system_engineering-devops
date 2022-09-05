@@ -1,6 +1,1 @@
-total 16
-drwxr-xr-x 2 root root    66 Sep  5 07:56 .
-drwxr-xr-x 6 root root   182 Sep  5 09:23 ..
--rwxr--r-- 1 root root     0 Sep  5 10:35 0-hello_world
--rw-r--r-- 1 root root    16 Sep  5 07:45 README.md
--rw-r--r-- 1 root root 12288 Sep  5 07:56 .README.md.swp
+#!/bin/bash
